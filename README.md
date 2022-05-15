@@ -17,8 +17,7 @@ This was a data analysis was preformed using SQL queries to assist the client in
     - The most frequent job title was Senior Engineer with = 25,916.
     - The second most frequent title was Senior Staff = 24,926.
    
-
-![Retirement Titles Count](Images/retiring_titles_count.png)
+<img src = "Images/retiring_titles_count.PNG">
 
 **Employees Eligable for Mentorship Program**
 
